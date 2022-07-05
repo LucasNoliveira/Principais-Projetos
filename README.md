@@ -4,4 +4,4 @@ Aqui estão os principais projetos que eu fiz para aprender organizados por ling
 
 ## JavaScript
 
-https://github.com/LucasNoliveira/SuperMario-JavaScript
+<a href="https://github.com/LucasNoliveira/SuperMario-JavaScript"> Super Mario JavaScript Game </a>
